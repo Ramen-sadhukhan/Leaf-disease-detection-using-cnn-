@@ -28,7 +28,8 @@ The classifier predicts the disease.
 
 Result, solution, and precautions are displayed.
 
-Models Used
+
+Models Used:
 
 CNN (from scratch)
 
@@ -36,6 +37,3 @@ Transfer Learning (MobileNetV2)
 
 Classical ML (SVM)
 
-Run the Project
-pip install -r requirements.txt
-streamlit run app.py
